@@ -1,0 +1,11 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "Projeto de automacao de testes para web com webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Gimenes",
+  "license": "ISC"
+}
